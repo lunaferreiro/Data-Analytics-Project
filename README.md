@@ -1,2 +1,3 @@
 # Data-Analytics-Project
 Project I worked on in my first semester of my Computer Science Bachelor's Degree.
+For this project, two data bases were given to us, each containing info about hospitals and pharmacies in my city, Buenos Aires. We were asked to work with classes, one for Pharmacies, other for Hospitals, and a last one called DataSet, where all the methods necesssary to manipulate the info were. Some of the methods included returning the closest pharmacy to the hospital given by the user, the distance between said hospital and pharmacy, among a few others. My score for this project was 100/100.
